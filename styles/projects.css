@@ -19,7 +19,7 @@ h2{
 
 .grid-conteiner{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 16px;
     width: 100%;
     margin: 20px auto;
